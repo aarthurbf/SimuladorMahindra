@@ -48,8 +48,8 @@ Este projeto consiste em um conjunto de funcionalidades para simular eventos rel
 
 ## Melhorias Futuras
 
-Implementar interface gráfica para melhor usabilidade.
+- Implementar interface gráfica para melhor usabilidade.
 
-Integrar com um banco de dados real para armazenar informações persistentes.
+- Integrar com um banco de dados real para armazenar informações persistentes.
 
-Adicionar suporte a API para interação externa.
+- Adicionar suporte a API para interação externa.
